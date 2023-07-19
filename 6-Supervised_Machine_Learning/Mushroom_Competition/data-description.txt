@@ -1,0 +1,16 @@
+
+cap-shape:                bell=b,conical=c,convex=x,flat=f,
+                            knobbed=k,sunken=s
+
+cap-color:                brown=n,buff=b,cinnamon=c,gray=g,green=r,
+                            pink=p,purple=u,red=e,white=w,yellow=y
+
+bruises?:                 bruises=t,no=f
+
+stalk-color-above-ring:   brown=n,buff=b,cinnamon=c,gray=g,orange=o,
+                            pink=p,red=e,white=w,yellow=y
+
+stalk-color-below-ring:   brown=n,buff=b,cinnamon=c,gray=g,orange=o,
+
+population:               abundant=a,clustered=c,numerous=n,
+                            scattered=s,several=v,solitary=y
