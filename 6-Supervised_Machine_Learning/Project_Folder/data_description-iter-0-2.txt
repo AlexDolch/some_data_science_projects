@@ -1,0 +1,17 @@
+LotFrontage: Linear feet of street connected to property
+
+LotArea: Lot size in square feet
+
+TotalBsmtSF: Total square feet of basement area
+
+BedroomAbvGr: Bedrooms above grade (does NOT include basement bedrooms)
+
+Fireplaces: Number of fireplaces
+
+PoolArea: Pool area in square feet
+
+GarageCars: Size of garage in car capacity
+
+WoodDeckSF: Wood deck area in square feet
+
+ScreenPorch: Screen porch area in square feet
